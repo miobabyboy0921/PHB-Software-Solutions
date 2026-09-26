@@ -1,5 +1,5 @@
 PHB Software Solutions website
-Test sunn
+
 Folder structure
   index.html                                   the page
   assets/
@@ -7,9 +7,10 @@ Folder structure
     js/main.js                                 menu, See more/Show less, animations, contact form
     images/
       logos/
-        phb-logo-horizontal.webp               header logo
-        phb-mark.webp                          footer logo and browser tab icon
-        baston-logo-horizontal.webp            BASTON logo on the Products card
+        phb-logo-horizontal.svg                header logo (sits on a white plate on the red header)
+        phb-logo-horizontal-dark.svg           footer logo (for dark backgrounds)
+        phb-icon.svg                           browser tab icon
+        baston-logo-horizontal.svg             BASTON logo on the Products card
       illustrations/
         hero-software-hardware-people.svg      Home hero image
         baston-cane-parts.svg                  labeled cane diagram (Products > See more)
